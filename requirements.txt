@@ -1,0 +1,22 @@
+# Final Working Weather App Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# GUI Framework (included with Python)
+# tkinter - comes with Python standard library
+
+# Optional: Enhanced Features
+# Uncomment if you want additional functionality
+# matplotlib>=3.7.0  # For weather charts
+# pillow>=10.0.0     # For image processing
+
+# Development Dependencies (optional)
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Code Quality Tools (optional)
+flake8>=6.0.0
+black>=23.7.0

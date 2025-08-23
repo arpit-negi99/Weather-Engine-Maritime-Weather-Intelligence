@@ -1,0 +1,31 @@
+# 🌍 Sample Cities for Testing
+
+## Major Cities (Good for general testing)
+- New York, USA
+- London, UK
+- Tokyo, Japan
+- Paris, France
+- Sydney, Australia
+
+## Weather Alert Testing
+- Miami, USA (Hurricane season)
+- Oklahoma City, USA (Tornado activity) 
+- Mumbai, India (Monsoon alerts)
+- Darwin, Australia (Cyclone region)
+- Manila, Philippines (Typhoon alerts)
+
+## Extreme Weather Testing
+- Anchorage, USA (Extreme cold)
+- Phoenix, USA (Extreme heat)
+- Reykjavik, Iceland (Arctic conditions)
+- Singapore (Tropical weather)
+- Cairo, Egypt (Desert conditions)
+
+## Small Cities (Test search functionality)
+- Bangor, Maine
+- Bend, Oregon  
+- Tauranga, New Zealand
+- Bruges, Belgium
+- Kyoto, Japan
+
+Try entering these cities to test different weather conditions and alert types!
